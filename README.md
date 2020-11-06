@@ -1,6 +1,9 @@
 # WaifuScraper.py
 Pixiv Web Scraper made using pixivapi. 
 downloads images to a folder alled PixivImages
+
+
+
 Functions:
 help: returns information about what the scraper can do
 illustration download: downloads an image for you using an ID you provide to a folder called PixivImages.
