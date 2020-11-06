@@ -1,6 +1,9 @@
 # WaifuScraper.py
 Pixiv Web Scraper made using pixivapi. 
-downloads images to a folder alled PixivImages
+
+
+
+downloads images to a folder called PixivImages
 
 
 
